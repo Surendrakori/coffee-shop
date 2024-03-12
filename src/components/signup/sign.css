@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+a {
+    text-decoration: none;
+}
+#btn{
+    background-color: rgb(250, 76, 8);
+}
