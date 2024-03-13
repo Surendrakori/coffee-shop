@@ -10,6 +10,7 @@ import Logout from "./components/user/Logout.js";
 import Footer from "./components/footer/Footer.js"
 
 
+
 export const UserContext = createContext(null);
 function App() {
   const [user, setuser] = useState(0);
